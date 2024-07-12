@@ -1,3 +1,5 @@
+![logo](https://github.com/AyushKatiyar13/AyushKatiyar13/blob/main/Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Ayush Katiyar</h1>
 <h3 align="center">Passionate about leveraging Python for innovative software solutions and Data Analysis.</h3>
 
