@@ -1,6 +1,6 @@
 ![logo](https://github.com/AyushKatiyar13/AyushKatiyar13/blob/main/Banner%201.jpg)
 
-<h1 align="center">Hi 👋, I'm Ayush Katiyar</h1>
+<h1 align="center">Hi👋, I'm Ayush Katiyar</h1>
 <h3 align="center">Passionate about leveraging Python for innovative software solutions and Data Analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkatiyar13&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkatiyar13" /> </p>
