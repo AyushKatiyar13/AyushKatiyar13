@@ -11,9 +11,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **Four tier Website **
 
-- 🌱 I’m currently learning **Advanced Python Libraries like Pandas, NumPY, Matplotlib, Seaborn, Django.**
+- 🌱 I’m currently learning **Adanced Python, Data Science.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ayush-katiyar13/](https://www.linkedin.com/in/ayush-katiyar13/)
 
